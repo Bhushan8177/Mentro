@@ -4,7 +4,7 @@
   
 # Mentro-Assignment
   
-# [DEMO LINK](https://mentro-assignment-bhushan.netlify.app//)
+# [DEMO LINK](https://mentro-assignment-bhushan.netlify.app)
   
 ---
 <div align="left">
