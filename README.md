@@ -34,5 +34,5 @@ npm i
 ```
 npm start
 ```
-
+<div align = "center">
 ⭐Star the repository !!
