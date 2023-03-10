@@ -34,3 +34,5 @@ npm i
 ```
 npm start
 ```
+
+⭐Star the repository !!
