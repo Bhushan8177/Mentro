@@ -14,13 +14,13 @@
 - Clone on your local machine
 
 ```terminal
-git clone https://github.com/Spyware007/Mentro-Assignment.git
+git clone https://github.com/Bhushan8177/Mentro.git
 ```
 
-- Change directory to Mentro-Assignment
+- Change directory to Mentro
 
 ```terminal
-cd Mentro-Assignment
+cd Mentro
 ```
 
 - Install all npm dependencies/packages
